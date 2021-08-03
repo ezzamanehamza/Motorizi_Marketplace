@@ -1,0 +1,6 @@
+/voitures                /#/voitures
+/motos               /#/motos
+/motos/projects/*    /#/motos/projects/:splat
+/velos                   /#/velos
+/blog/*                 /#/blog/:splat
+/contact                /#/contact
